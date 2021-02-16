@@ -9,26 +9,26 @@ export default function Footer() {
                 <span>
                     <a
                         target="blank"
-                        href="https://www.facebook.com/Khabibullosaydullaev"
-                    >
+                        href="https://www.facebook.com/rivojiddin.abdunazarov.3/"
+                        >
                         <Fb />
                     </a>
                 </span>
                 <span>
                     <a
                         target="blank"
-                        href="https://www.instagram.com/khabibullo_0197/"
+                        href="https://www.instagram.com/iam_abdunazarov/"
                     >
                         <Insta />
                     </a>
                 </span>
                 <span>
-                    <a target="blank" href="https://github.com/Bill0197">
+                    <a target="blank" href="https://github.com/din0497">
                         <Git />
                     </a>
                 </span>
                 <span>
-                    <a target="blank" href="https://t.me/khabibullosaydullaev">
+                    <a target="blank" href="https://t.me/IamAbdunazarov">
                         <Tg />
                     </a>
                 </span>

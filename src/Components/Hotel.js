@@ -31,7 +31,7 @@ export default function Hotel() {
                     <a
                         className="bannerBtn"
                         target="blank"
-                        href="https://github.com/Bill0197/hotel-reservation"
+                        href="https://github.com/din0497/hotel-reservation"
                     >
                         Code
                     </a>

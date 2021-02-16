@@ -35,12 +35,12 @@ export default function Portfolio({ display }) {
                         <a className="displayCode portfolioBtn biggerFont">
                             non public &#x21;
                         </a>
-                        <Link
+                        {/* <Link
                             to="/portfolio/webbrain"
                             className="portfolioBtn displayDetails biggerFont"
                         >
                             Project Details
-                        </Link>
+                        </Link> */}
                         <img
                             className="imgPortf"
                             src={Webbrain}
@@ -58,16 +58,16 @@ export default function Portfolio({ display }) {
                         <a
                             className="displayCode portfolioBtn biggerFont"
                             target="blank"
-                            href="https://github.com/Bill0197/hotel-reservation"
+                            href="https://github.com/din0497/hotel-reservation.git"
                         >
                             Source Code
                         </a>
-                        <Link
+                        {/* <Link
                             to="/portfolio/hotel"
                             className="portfolioBtn displayDetails biggerFont"
                         >
                             Project Details
-                        </Link>
+                        </Link> */}
                         <img
                             className="imgPortf"
                             src={Hotel}
@@ -78,23 +78,18 @@ export default function Portfolio({ display }) {
                         <a
                             className="displayWebsite portfolioBtn biggerFont"
                             target="blank"
-                            href="https://khabibullosaydullaev.netlify.app/"
+                            href="https://uzkordictioanary.netlify.app/"
                         >
                             App Website
                         </a>
                         <a
                             className="displayCode portfolioBtn biggerFont"
                             target="blank"
-                            href="https://github.com/Bill0197/bootstrap-the-updated-one"
+                            href="https://github.com/din0497/UzKor-dictionary.git"
                         >
                             Source Code
                         </a>
-                        <Link
-                            to="/portfolio/bootstrap"
-                            className="portfolioBtn displayDetails biggerFont"
-                        >
-                            Project Details
-                        </Link>
+                   
                         <img
                             className="imgPortf"
                             src={Bootstrap}
@@ -116,12 +111,12 @@ export default function Portfolio({ display }) {
                         >
                             Source Code
                         </a>
-                        <Link
+                        {/* <Link
                             to="/portfolio/budget"
                             className="portfolioBtn displayDetails biggerFont"
                         >
                             Project Details
-                        </Link>
+                        </Link> */}
                         <img
                             className="imgPortf"
                             src={Budget}
@@ -132,9 +127,9 @@ export default function Portfolio({ display }) {
             </section>
             {!display && (
                 <div className="fullWidth">
-                    <Link to="/" className="center bannerBtn">
+                    {/* <Link to="/" className="center bannerBtn">
                         back to home
-                    </Link>
+                    </Link> */}
                 </div>
             )}
             {!display && <Footer />}

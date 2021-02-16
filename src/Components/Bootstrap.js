@@ -24,14 +24,14 @@ export default function Bootstrap() {
                     <a
                         className="bannerBtn marginRigth"
                         target="blank"
-                        href="https://khabibullosaydullaev.netlify.app/"
+                        href="https://uzkordictioanary.netlify.app/"
                     >
                         Site
                     </a>
                     <a
                         className="bannerBtn"
                         target="blank"
-                        href="https://github.com/Bill0197/bootstrap-the-updated-one"
+                        href="https://github.com/din0497/uzKor-dictionary.git"
                     >
                         Code
                     </a>
