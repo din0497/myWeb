@@ -20,8 +20,8 @@ export default function Portfolio({ display }) {
                     </p>
                     <p>1. Webbrain</p>
                     <p>2. Hotel Reservation </p>
-                    <p>3. Bootstrap Portfolio </p>
-                    <p>4. Budget App </p>
+                    <p>3. Tasbeh (Counter for Muslims) </p>
+                    <p>4. Uzbek-Korean dictionary(UI) </p>
                 </div>
                 <div className="imgWrapper">
                     <div className="imgParent">
